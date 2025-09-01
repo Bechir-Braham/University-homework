@@ -1,0 +1,83 @@
+2021/03/01 22:37:08 server created
+2021/03/01 22:37:08 invocation de creerCompte: nom: khalil prenom: ba
+2021/03/01 22:37:08compte créé avec ID: 0
+2021/03/01 22:37:08 invocation de creerCompte: nom: ben prenom: hamouda
+2021/03/01 22:37:08compte créé avec ID: 1
+2021/03/01 22:37:08 invocation de creerCompte: nom: ala prenom: ben
+2021/03/01 22:37:08compte créé avec ID: 2
+2021/03/01 22:37:08invocation de etatCompte avec ID 0
+succès
+2021/03/01 22:37:08 invocation de creerCompte: nom: bh prenom: ala
+2021/03/01 22:37:08compte créé avec ID: 3
+2021/03/01 22:37:08invocation de ajouterSurCompte avec ID 3 et montant: 150000
+ montant: 150000 montant ajouté
+2021/03/01 22:37:08invocation de etatCompte avec ID 0
+succès
+2021/03/01 22:37:08invocation de transfert Entre Compte: 
+ID: 3 montant: 1 destination 0
+succès
+2021/03/01 22:37:08invocation de etatCompte avec ID 0
+succès
+2021/03/01 22:37:08invocation de transfert Entre Compte: 
+ID: 0 montant: -1000000000 destination 1
+succès
+2021/03/01 22:37:08invocation de etatCompte avec ID 3
+succès
+2021/03/01 22:37:08invocation de etatCompte avec ID 0
+succès
+2021/03/01 22:37:08invocation de transfert Entre Compte: 
+ID: 0 montant: -100000069 destination 3
+succès
+2021/03/01 22:37:08invocation de etatCompte avec ID 3
+succès
+2021/03/01 22:37:08invocation de etatCompte avec ID 0
+succès
+2021/03/01 22:37:08invocation de transfert Entre Compte: 
+ID: 3 montant: -150000000 destination 0
+succès
+2021/03/01 22:37:08invocation de etatCompte avec ID 3
+succès
+2021/03/01 22:37:08invocation de etatCompte avec ID 0
+succès
+2021/03/01 22:37:08invocation de etatCompte avec ID 0
+mdp faux
+2021/03/01 22:37:08invocation de etatCompte avec ID 0
+succès
+2021/03/01 22:37:08invocation de transfert Entre Compte: 
+ID: 3 montant: -99999999 destination 0
+succès
+2021/03/01 22:37:08invocation de etatCompte avec ID 3
+succès
+2021/03/01 22:37:08 invocation de get valeur: ID: 3
+succès
+2021/03/01 22:37:08invocation de transfert Entre Compte: 
+ID: 3 montant: -999999 destination 0
+succès
+2021/03/01 22:37:08invocation de transfert Entre Compte: 
+ID: 0 montant: -150149929 destination 3
+succès
+2021/03/01 22:37:08invocation de etatCompte avec ID 3
+succès
+2021/03/01 22:37:08 invocation de get valeur: ID: 3
+succès
+2021/03/01 22:37:08 invocation de get valeur: ID: 0
+succès
+2021/03/01 22:37:08invocation de transfert Entre Compte: 
+ID: 3 montant: -999150001 destination 0
+succès
+2021/03/01 22:37:08 invocation de get valeur: ID: 0
+succès
+2021/03/01 22:37:08invocation de etatCompte avec ID 3
+succès
+2021/03/01 22:37:08invocation de transfert Entre Compte: 
+ID: 3 montant: 69 destination 0
+succès
+2021/03/01 22:37:08 invocation de get valeur: ID: 0
+succès
+2021/03/01 22:37:08invocation de etatCompte avec ID 0
+succès
+ invocation de affiche Log
+ invocation de affiche Log
+ invocation de affiche Log
+2021/03/01 22:37:08 invocation de get valeur: ID: 3
+succès
